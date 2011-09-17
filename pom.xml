@@ -9,7 +9,7 @@
 
   <groupId>de.lightful.poms</groupId>
   <artifactId>archetype</artifactId>
-  <version>3</version>
+  <version>4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>de.lightful :: POMs :: Maven Archetype 2.1</name>
